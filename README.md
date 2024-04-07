@@ -2,6 +2,8 @@
 # CSS Color Pickerr Chrome / Edge Extension
 
  Introducing 'CSS Color Picker': effortlessly unveil the true colors of images and elements with precision.
+ 
+<div > <img src="https://iili.io/JOLIKOJ.gif" > </div>
 
 User Guide:
 
@@ -13,7 +15,7 @@ User Guide:
 
 This extension is primarily designed to support image-based color selection. And this extension also offers support for other elements most of the time.
 
-<div > <img src="https://i.ibb.co/LgJby77/Untitled-design.gif" > </div>
+
 
 Download : [https://microsoftedge.microsoft.com/addons/detail/aiojaijekaanaheoheinapclcipfkdob](https://microsoftedge.microsoft.com/addons/search?developer=Nadeesha%20weerasekara)
 
