@@ -4,7 +4,7 @@
  Introducing 'CSS Color Picker': effortlessly unveil the true colors of images and elements with precision.
  
 <div > <img src="img/ss.gif" > </div>
-
+  <a href = 'https://iili.io/JOLIKOJ.gif'> click to see</a>
 
 User Guide:
 
