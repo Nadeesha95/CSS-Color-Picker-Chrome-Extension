@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "CSS Color Picker",
+    "version": "1.0",
+    "description": "Introducing 'CSS Color Picker': effortlessly unveil the true colors of images and elements with precision",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "img/17.png",
+        "48": "img/48.png",
+        "128": "img/128.png"
+    }
+    },
+    "permissions": ["activeTab", "storage", "activeTab"],
+
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["js/content.js"]
+    }]
+  }
